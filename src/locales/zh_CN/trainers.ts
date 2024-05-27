@@ -302,14 +302,14 @@ export const trainerNames: SimpleTranslationEntries = {
 
 
   // Double Names
-  "blue_red_double": "Blue & Red",
-  "red_blue_double": "Red & Blue",
-  "tate_liza_double": "Tate & Liza",
-  "liza_tate_double": "Liza & Tate",
-  "steven_wallace_double": "Steven & Wallace",
-  "wallace_steven_double": "Wallace & Steven",
-  "alder_iris_double": "Alder & Iris",
-  "iris_alder_double": "Iris & Alder",
-  "marnie_piers_double": "Marnie & Piers",
-  "piers_marnie_double": "Piers & Marnie",
+  "blue_red_double": "青绿 & 赤红",
+  "red_blue_double": "赤红 & 青绿",
+  "tate_liza_double": "小枫 & 小南",
+  "liza_tate_double": "小南 & 小枫",
+  "steven_wallace_double": "大吾 & 米可利",
+  "wallace_steven_double": "米可利 & 大吾",
+  "alder_iris_double": "阿戴克 & 艾莉丝",
+  "iris_alder_double": "艾莉丝 & 阿戴克",
+  "marnie_piers_double": "玛俐 & 聂梓",
+  "piers_marnie_double": "聂梓 & 玛俐",
 } as const;
