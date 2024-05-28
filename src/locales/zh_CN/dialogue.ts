@@ -2086,9 +2086,9 @@ export const PGMdialogue: DialogueTranslationEntries = {
   },
   "rival": {
     "encounter": {
-      1: `@c{smile}Hey, I was looking for you! I knew you were eager to get going but I expected at least a goodbye…
-                    $@c{smile_eclosed}So you're really pursuing your dream after all?\n I almost can't believe it.
-                    $@c{serious_smile_fists}Since we're here, how about a battle?\nAfter all, I want to make sure you're ready.
+      1: `@c{smile}嘿，我正找你呢！知道你急着往外跑但是至少说声再见吧…
+                    $@c{smile_eclosed}所以你终于打算去实现梦想了?\n 我都不敢相信。
+                    $@c{serious_smile_fists}来都来了，要不要来打一场\nAfter all, I want to make sure you're ready.
                     $@c{serious_mopen_fists}Don't hold back, I want you to give me everything you've got!`
     },
     "victory": {
