@@ -47,9 +47,10 @@ const languageSettings: { [key: string]: LanguageSetting } = {
   "zh_CN":{	
            summaryFontSize: "70px",
            battleInfoFontSize: "65px",
-	         partyFontSize: "50px",
+	   partyFontSize: "50px",
            tooltipContentFontSize: "50px",
-	         moveInfoFontSize: "50px"},
+	   moveInfoFontSize: "50px"
+  },
   "pt_BR":{},
 };
 
