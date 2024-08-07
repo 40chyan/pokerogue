@@ -1,7 +1,7 @@
 import { SimpleTranslationEntries } from "#app/interfaces/locales";
 
 export const moveTriggers: SimpleTranslationEntries = {
-  "hitWithRecoil" : "{{pokemonName}} was damaged by the recoil!",
+  "hitWithRecoil" : "{{pokemonName}}テストテスト",
   "cutHpPowerUpMove": "{{pokemonName}} cut its own HP to power up its move!",
   "absorbedElectricity": "{{pokemonName}} absorbed electricity!",
   "switchedStatChanges": "{{pokemonName}} switched stat changes with the target!",
